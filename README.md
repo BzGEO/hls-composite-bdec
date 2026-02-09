@@ -7,5 +7,6 @@
 
 ## Sample notebooks (for tile 15QYA)
 
-1. For running on AWS: https://github.com/BzGEO/hls-composite-bdec/blob/main/scripts/bdec_hls_composite_data_access__tile_15qya_aws.ipynb
-2. For running on Google Colab: https://github.com/BzGEO/hls-composite-bdec/blob/main/scripts/bdec_hls_composite_data_access__tile_15qya_colab.ipynb
+*Median composites*
+1. For running on AWS: https://github.com/BzGEO/hls-composite-bdec/blob/main/scripts/bdec_hls_composite__tile_15QYA_median_aws.ipynb
+2. For running on Google Colab: https://github.com/BzGEO/hls-composite-bdec/blob/main/scripts/bdec_hls_composite__tile_15QYA_median_colab.ipynb
