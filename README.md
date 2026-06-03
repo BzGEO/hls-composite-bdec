@@ -1,5 +1,5 @@
 # Harmonized Landsat Sentinel-2 (HLS) compositing
-*Last updated: 09.02.2026*
+*Last updated: 03.06.2026*
 
 ## Description
 * This repository contains custmizations of a Jupyter Notebook developed by Dr. Madhu Sridhar of NASA OSDI, for the extraction and compositing of Harmonized Landsat Sentinel-2 (HLS) data, and the generation of vegetation indices from said data.
